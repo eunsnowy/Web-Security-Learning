@@ -204,6 +204,9 @@
 + [Discuz X系列门户文章功能SSRF漏洞挖掘与分析](http://bobao.360.cn/learning/detail/2889.html)
 + [SSRF to GET SHELL](http://blog.feei.cn/ssrf/)
 + [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/)
+......############......
++ [SSRF原理以及漏洞挖掘方法](https://blog.csdn.net/u010726042/article/details/77806775)
+
 
 
 ## XXE
