@@ -208,9 +208,15 @@
 + [SSRF漏洞的利用与学习](https://uknowsec.cn/posts/notes/SSRF%E6%BC%8F%E6%B4%9E%E7%9A%84%E5%88%A9%E7%94%A8%E4%B8%8E%E5%AD%A6%E4%B9%A0.html)
 + [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
 + [SSRF原理以及漏洞挖掘方法](https://blog.csdn.net/u010726042/article/details/77806775)
-+ [SSRF原理以及漏洞挖掘方法](https://blog.csdn.net/u010726042/article/details/77806775)
-+ [SSRF原理以及漏洞挖掘方法](https://blog.csdn.net/u010726042/article/details/77806775)
-
++ [SSRF in PHP](https://joychou.org/web/phpssrf.html)
++ [深入浅出SSRF](https://nosec.org/home/detail/2167.html)
++ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
++ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
++ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
++ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
++ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
++ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
++ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
 
 
 
