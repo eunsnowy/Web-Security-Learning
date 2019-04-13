@@ -204,19 +204,19 @@
 + [Discuz X系列门户文章功能SSRF漏洞挖掘与分析](http://bobao.360.cn/learning/detail/2889.html)
 + [SSRF to GET SHELL](http://blog.feei.cn/ssrf/)
 + [SSRF Tips](http://blog.safebuff.com/2016/07/03/SSRF-Tips/)
-......############......
++ [......############......]
 + [SSRF漏洞的利用与学习](https://uknowsec.cn/posts/notes/SSRF%E6%BC%8F%E6%B4%9E%E7%9A%84%E5%88%A9%E7%94%A8%E4%B8%8E%E5%AD%A6%E4%B9%A0.html)
 + [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
 + [SSRF原理以及漏洞挖掘方法](https://blog.csdn.net/u010726042/article/details/77806775)
 + [SSRF in PHP](https://joychou.org/web/phpssrf.html)
 + [深入浅出SSRF](https://nosec.org/home/detail/2167.html)
++ [SSRF漏洞攻击与防御](https://www.jianshu.com/p/86bb349baac1)
++ [SSRF漏洞(原理&绕过姿势)](https://www.t00ls.net/articles-41070.html)
++ [SSRF 服务端请求伪造](https://ctf-wiki.github.io/ctf-wiki/web/ssrf/#_1)
++ [了解SSRF,这一篇就足够了](https://xz.aliyun.com/t/2115)
 + [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
 + [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
-+ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
-+ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
-+ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
-+ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
-+ [利用 Gopher 协议拓展攻击面](https://blog.chaitin.cn/gopher-attack-surfaces/)
+
 
 
 
@@ -279,6 +279,11 @@
 + [基于时间反馈的RCE](http://www.mottoin.com/97678.html)
 + [正则表达式使用不当引发的系统命令执行漏洞](http://bobao.360.cn/learning/detail/3609.html)
 + [命令注入突破长度限制 ](http://www.freebuf.com/articles/web/154453.html)
++ [......############......]
++ [命令执行的一些绕过技巧  ](https://chybeta.github.io/2017/08/15/%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E7%9A%84%E4%B8%80%E4%BA%9B%E7%BB%95%E8%BF%87%E6%8A%80%E5%B7%A7/)
++ [php代码/命令执行漏洞 ](https://chybeta.github.io/2017/08/08/php%E4%BB%A3%E7%A0%81-%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9E/)
+
+
 ## 文件包含
 + [php文件包含漏洞 ](https://chybeta.github.io/2017/10/08/php%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB%E6%BC%8F%E6%B4%9E/)
 + [Turning LFI into RFI](https://l.avala.mp/?p=241)
@@ -634,3 +639,4 @@
 + [Joomla 框架的程序执行流程及目录结构分析](http://bobao.360.cn/learning/detail/3909.html)
 + [如何通过恶意插件在Atom中植入后门](http://bobao.360.cn/learning/detail/4268.html)
 + [CRLF Injection and Bypass Tencent WAF ](https://zhchbin.github.io/2016/01/31/CRLF-Injection-and-Bypass-WAF/)
++ [Github 安全类Repo收集整理](https://zhuanlan.zhihu.com/p/21380662)
