@@ -242,6 +242,8 @@
 + [XSLT Server Side Injection Attacks](https://www.contextis.com/blog/xslt-server-side-injection-attacks)
 + [Java XXE Vulnerability](https://joychou.org/web/java-xxe-vulnerability.html)
 + [xml-attacks.md](https://gist.github.com/mgeeky/4f726d3b374f0a34267d4f19c9004870)
++ [######################################]
++ [未知攻焉知防——XXE漏洞攻防](https://security.tencent.com/index.php/blog/msg/69)
 
 ## JSONP注入
 + [JSONP注入解析 ](http://www.freebuf.com/articles/web/126347.html)
