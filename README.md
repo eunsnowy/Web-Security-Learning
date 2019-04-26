@@ -244,6 +244,7 @@
 + [XXE漏洞以及Blind XXE总结](https://blog.csdn.net/u011721501/article/details/43775691)
 + [一篇文章带你深入理解漏洞之 XXE 漏洞](https://xz.aliyun.com/t/3357)
 + [通用xxe检测方法](https://www.4hou.com/technology/15087.html)
++ [XXE漏洞学习从入门到放弃](https://www.jianshu.com/p/77f2181587a4)
 
 ## JSONP注入
 + [JSONP注入解析 ](http://www.freebuf.com/articles/web/126347.html)
