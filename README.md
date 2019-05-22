@@ -298,6 +298,7 @@
 + [文件包含漏洞 二](http://drops.blbana.cc/2016/12/03/e6-96-87-e4-bb-b6-e5-8c-85-e5-90-ab-e6-bc-8f-e6-b4-9e-ef-bc-88-e4-ba-8c-ef-bc-89/)
 + [*****###############*****]
 + [文件包含漏洞(绕过姿势)](https://thief.one/2017/04/10/2/)
++ [利用phpinfo包含临时文件](https://github.com/vulhub/vulhub/tree/master/php/inclusion)
 
 
 ## 文件上传 / 解析漏洞
