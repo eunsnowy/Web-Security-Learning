@@ -245,6 +245,7 @@
 + [一篇文章带你深入理解漏洞之 XXE 漏洞](https://xz.aliyun.com/t/3357)
 + [通用xxe检测方法](https://www.4hou.com/technology/15087.html)
 + [XXE漏洞学习从入门到放弃](https://www.jianshu.com/p/77f2181587a4)
++ [**小试XML实体注入攻击**](https://chybeta.github.io/2017/07/04/%E5%B0%8F%E8%AF%95XML%E5%AE%9E%E4%BD%93%E6%B3%A8%E5%85%A5%E6%94%BB%E5%87%BB/)
 
 ## JSONP注入
 + [JSONP注入解析 ](http://www.freebuf.com/articles/web/126347.html)
