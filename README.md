@@ -498,6 +498,7 @@
 + [Web Service 渗透测试从入门到精通](http://bobao.360.cn/learning/detail/3741.html)
 + [渗透标准](https://www.processon.com/view/583e8834e4b08e31357bb727)
 + [Penetration Testing Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/)
++ [PTES渗透测试执行标准 (诸葛建伟翻译)](http://www.doc88.com/p-7784047461299.html)
 
 ## 信息收集
 + [看我如何收集全网IP的whois信息 ](https://mp.weixin.qq.com/s/qz0b42DKhgo1sfitcUKhtQ)
