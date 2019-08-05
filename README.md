@@ -515,14 +515,14 @@
 + [安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/99951.html)
 + [子域名枚举的艺术](http://www.mottoin.com/101362.html)
 + [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
-+ [我眼中的渗透测试信息搜集](https://xianzhi.aliyun.com/forum/read/451.html?fpage=2)
++ [**我眼中的渗透测试信息搜集**](https://bbs.ichunqiu.com/thread-16020-1-1.html)
 + [大型目标渗透－01入侵信息搜集](https://xianzhi.aliyun.com/forum/read/1675.html)
 + [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 + [挖洞技巧：信息泄露之总结](https://www.anquanke.com/post/id/94787)
 + [   ]
 + [漏洞挖掘之域名信息收集](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
-+ [经验分享｜谈谈渗透测试中的信息搜集 ](https://www.freebuf.com/articles/web/179043.html)
-+ [使用Kali Linux在渗透测试中信息收集 ](https://www.freebuf.com/articles/system/58096.html)
++ [**经验分享｜谈谈渗透测试中的信息搜集 **](https://www.freebuf.com/articles/web/179043.html)
++ [**使用Kali Linux在渗透测试中信息收集 **](https://www.freebuf.com/articles/system/58096.html)
 
 ## 渗透
 + [【玩转Linux系统】Linux内网渗透 ](https://mp.weixin.qq.com/s/VJBnXq3--0HBD7eVeifOKA)
