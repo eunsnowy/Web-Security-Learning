@@ -522,6 +522,7 @@
 + [   ]
 + [漏洞挖掘之域名信息收集](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
 + [经验分享｜谈谈渗透测试中的信息搜集 ](https://www.freebuf.com/articles/web/179043.html)
++ [使用Kali Linux在渗透测试中信息收集 ](https://www.freebuf.com/articles/system/58096.html)
 
 ## 渗透
 + [【玩转Linux系统】Linux内网渗透 ](https://mp.weixin.qq.com/s/VJBnXq3--0HBD7eVeifOKA)
