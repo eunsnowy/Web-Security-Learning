@@ -524,6 +524,7 @@
 + [**经验分享｜谈谈渗透测试中的信息搜集**](https://www.freebuf.com/articles/web/179043.html)
 + [**使用Kali Linux在渗透测试中信息收集**](https://www.freebuf.com/articles/system/58096.html)
 + [子域名搜集思路与技巧梳理 ](https://www.freebuf.com/articles/web/117006.html)
++ [Github上寻找敏感信息技巧分享 ](https://www.2cto.com/article/201407/318742.html?gavgfs=u5xbd3)
 
 ## 渗透
 + [【玩转Linux系统】Linux内网渗透 ](https://mp.weixin.qq.com/s/VJBnXq3--0HBD7eVeifOKA)
