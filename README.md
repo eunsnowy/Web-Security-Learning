@@ -554,6 +554,9 @@
 + [秘密渗透内网——利用 DNS 建立 VPN 传输隧道](http://www.4hou.com/technology/3143.html)
 + [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet)
 + [我所了解的内网渗透——内网渗透知识大总结](https://www.anquanke.com/post/id/92646)
++ [+++++++*************++++++++]
++ [内网渗透主机发现的技巧 ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484689&idx=1&sn=67433d76467ed12fcd86981a1b2e32c2&chksm=ec1e3539db69bc2f2f7f9095b2bde41e21096179fcd3cabf20f149b2814c442fc42d78ef5e1e&scene=21#wechat_redirect)
++ [内网如何定位管理员](https://www.secpulse.com/archives/32859.html)
 
 ## 渗透实战
 + [挖洞经验 | 看我如何综合利用4个漏洞实现GitHub Enterprise远程代码执行 ](http://www.freebuf.com/news/142680.html)
