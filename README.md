@@ -525,6 +525,7 @@
 + [**使用Kali Linux在渗透测试中信息收集**](https://www.freebuf.com/articles/system/58096.html)
 + [子域名搜集思路与技巧梳理 ](https://www.freebuf.com/articles/web/117006.html)
 + [Github上寻找敏感信息技巧分享 ](https://www.2cto.com/article/201407/318742.html?gavgfs=u5xbd3)
++ [配置漏洞之DNS域传送 ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247483722&idx=1&sn=0ca58973b1257a410ff13111134da931&chksm=ec1e3162db69b87461b7d881cc43384afa2f2a41a5d529f5ad7dc13eddfee70ad4e9136ecef5&scene=21#wechat_redirect)
 
 ## 渗透
 + [【玩转Linux系统】Linux内网渗透 ](https://mp.weixin.qq.com/s/VJBnXq3--0HBD7eVeifOKA)
