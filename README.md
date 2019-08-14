@@ -576,6 +576,8 @@
 + [渗透测试学习笔记之案例二](http://avfisher.win/archives/756)
 + [渗透测试学习笔记之案例四](http://avfisher.win/archives/784)
 + [记一次内网渗透](http://killbit.me/2017/09/11/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)
++ [******+++++******]
++ [低危SSRF提权进内网](https://www.t00ls.net/articles-51972.html)
 
 ## 提权
 + [提权技巧](http://www.secbox.cn/skill/5583.html)
