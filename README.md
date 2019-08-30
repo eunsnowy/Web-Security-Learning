@@ -354,6 +354,8 @@
 + [Redis 未授权访问配合 SSH key 文件利用分析](http://blog.knownsec.com/2015/11/analysis-of-redis-unauthorized-of-expolit/)
 + [redis未授权访问漏洞利用总结](https://xianzhi.aliyun.com/forum/read/750.html)。
 + [【应急响应】redis未授权访问致远程植入挖矿脚本（防御篇） ](https://mp.weixin.qq.com/s/eUTZsGUGSO0AeBUaxq4Q2w)
++ [*****###############*****]
++ [Redis安全总结](https://bl4ck.in/categories/2015/11/17/Redis%E5%AE%89%E5%85%A8%E6%80%BB%E7%BB%93.html)
 
 ## PHP相关
 ### 弱类型
