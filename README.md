@@ -562,6 +562,7 @@
 + [+++++++*************++++++++]
 + [内网渗透主机发现的技巧 ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484689&idx=1&sn=67433d76467ed12fcd86981a1b2e32c2&chksm=ec1e3539db69bc2f2f7f9095b2bde41e21096179fcd3cabf20f149b2814c442fc42d78ef5e1e&scene=21#wechat_redirect)
 + [内网如何定位管理员](https://www.secpulse.com/archives/32859.html)
++ [【技术分享】内网渗透——网络环境的判断 ](https://www.anquanke.com/post/id/84955)
 
 ## 渗透实战
 + [挖洞经验 | 看我如何综合利用4个漏洞实现GitHub Enterprise远程代码执行 ](http://www.freebuf.com/news/142680.html)
