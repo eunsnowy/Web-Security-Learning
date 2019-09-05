@@ -563,7 +563,6 @@
 + [内网渗透主机发现的技巧 ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247484689&idx=1&sn=67433d76467ed12fcd86981a1b2e32c2&chksm=ec1e3539db69bc2f2f7f9095b2bde41e21096179fcd3cabf20f149b2814c442fc42d78ef5e1e&scene=21#wechat_redirect)
 + [内网如何定位管理员](https://www.secpulse.com/archives/32859.html)
 + [技术分享】内网渗透——网络环境的判断](https://www.anquanke.com/post/id/84955)
-+ [域渗透之横向移动 ](http://xnianq.cn/2018/10/16/%E5%9F%9F%E6%B8%97%E9%80%8F%E4%B9%8B%E6%A8%AA%E5%90%91%E7%A7%BB%E5%8A%A8/#more)
 + [深入解读MS14-068漏洞：微软精心策划的后门？](https://www.freebuf.com/vuls/56081.html)
 
 ## 渗透实战
@@ -611,6 +610,10 @@
 + [渗透技巧——快捷方式文件的参数隐藏技巧](https://3gstudent.github.io/3gstudent.github.io/%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7-%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E6%96%87%E4%BB%B6%E7%9A%84%E5%8F%82%E6%95%B0%E9%9A%90%E8%97%8F%E6%8A%80%E5%B7%A7/)
 + [后门整理](https://bbs.ichunqiu.com/thread-25119-1-1.html?from=sec)
 + [Linux后门整理合集（脉搏推荐）](https://www.secpulse.com/archives/59674.html)
++ [******+++++******]
++ [域渗透之横向移动 ](http://xnianq.cn/2018/10/16/%E5%9F%9F%E6%B8%97%E9%80%8F%E4%B9%8B%E6%A8%AA%E5%90%91%E7%A7%BB%E5%8A%A8/#more)
++ [域渗透——Pass The Hash & Pass The Key](https://wooyun.x10sec.org/static/drops/tips-11631.html)
++ [域渗透——Pass The Ticket](https://wooyun.x10sec.org/static/drops/tips-12159.html)
 
 ## 运维
 + [安全运维那些洞 ](https://mp.weixin.qq.com/s/5TfAF5-HR8iDA_qSIJkQ0Q)
