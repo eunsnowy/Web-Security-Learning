@@ -614,6 +614,10 @@
 + [域渗透之横向移动 ](http://xnianq.cn/2018/10/16/%E5%9F%9F%E6%B8%97%E9%80%8F%E4%B9%8B%E6%A8%AA%E5%90%91%E7%A7%BB%E5%8A%A8/#more)
 + [域渗透——Pass The Hash & Pass The Key](https://wooyun.x10sec.org/static/drops/tips-11631.html)
 + [域渗透——Pass The Ticket](https://wooyun.x10sec.org/static/drops/tips-12159.html)
++ [域渗透——Security Support Provider](https://wooyun.x10sec.org/static/drops/tips-12518.html)
++ [域渗透——Skeleton Key](https://wooyun.x10sec.org/static/drops/tips-12670.html)
++ [域渗透——Hook PasswordChangeNotify](https://wooyun.x10sec.org/static/drops/tips-13079.html)
++ [深入解读MS14-068漏洞：微软精心策划的后门？](https://www.freebuf.com/vuls/56081.html)
 
 ## 运维
 + [安全运维那些洞 ](https://mp.weixin.qq.com/s/5TfAF5-HR8iDA_qSIJkQ0Q)
