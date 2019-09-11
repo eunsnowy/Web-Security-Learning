@@ -47,6 +47,7 @@
     - [python-Web](#python-web)
     - [Node-js](#node-js)
     - [WAF相关](#waf%E7%9B%B8%E5%85%B3)
+    - [免杀](#%E5%85%8D%E6%9D%80)
 - [渗透测试](#%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95)
     - [Course](#course)
     - [信息收集](#%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86)
