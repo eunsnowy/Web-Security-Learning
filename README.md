@@ -58,6 +58,7 @@
     - [DDOS](#ddos)
 - [CTF](#ctf)
     - [技巧总结](#%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93)
+- [挖洞技巧](#挖洞技巧)
 - [杂](#%E6%9D%82)
 
 <!-- more -->
@@ -662,6 +663,8 @@
 + [rcoil:CTF线下攻防赛总结](http://rcoil.me/2017/06/CTF%E7%BA%BF%E4%B8%8B%E8%B5%9B%E6%80%BB%E7%BB%93/)
 + [CTF内存取证入坑指南！稳！](http://www.freebuf.com/column/152545.html)
 
+# 挖洞技巧
++ [漏洞挖掘之域名信息收集 ](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
 # 杂
 + [细致分析Padding Oracle渗透测试全解析 ](http://www.freebuf.com/articles/database/150606.html)
 + [Exploring Compilation from TypeScript to WebAssembly](https://medium.com/web-on-the-edge/exploring-compilation-from-typescript-to-webassembly-f846d6befc12)
