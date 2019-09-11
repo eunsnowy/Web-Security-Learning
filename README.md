@@ -493,7 +493,8 @@
 + [使用HTTP头去绕过WAF ](http://www.sohu.com/a/110066439_468673)
 + [会找漏洞的时光机: Pinpointing Vulnerabilities](https://www.inforsec.org/wp/?p=1993)
 
-
+## 免杀
++ [经验分享 | 一句话免杀编写思路 ](https://www.freebuf.com/articles/system/164076.html)
 
 
 # 渗透测试
@@ -504,22 +505,14 @@
 + [PTES渗透测试执行标准 (诸葛建伟翻译)](http://www.doc88.com/p-7784047461299.html)
 
 ## 信息收集
-+ [渗透测试向导之子域名枚举技术](http://www.freebuf.com/articles/network/161046.html)
 + [【渗透神器系列】搜索引擎 ](http://thief.one/2017/05/19/1/)
 + [域渗透基础简单信息收集（基础篇）](https://blog.csdn.net/Fly_hps/article/details/80636089)
 + [内网渗透定位技术总结](http://docs.ioin.in/writeup/www.mottoin.com/_92978_html/index.html)
 + [后渗透攻防的信息收集](https://www.secpulse.com/archives/51527.html)
-+ [安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/detail/1135.html)
-+ [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
 + [**我眼中的渗透测试信息搜集**](https://bbs.ichunqiu.com/thread-16020-1-1.html)
-+ [大型目标渗透－01入侵信息搜集](https://xianzhi.aliyun.com/forum/read/1675.html)
-+ [乙方渗透测试之信息收集](http://www.cnnetarmy.com/%E4%B9%99%E6%96%B9%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%B9%8B%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
-+ [挖洞技巧：信息泄露之总结](https://www.anquanke.com/post/id/94787)
++ [大型目标渗透－01入侵信息搜集](https://xz.aliyun.com/t/155)
 + [   ]
-+ [漏洞挖掘之域名信息收集](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
 + [**经验分享｜谈谈渗透测试中的信息搜集**](https://www.freebuf.com/articles/web/179043.html)
-+ [**使用Kali Linux在渗透测试中信息收集**](https://www.freebuf.com/articles/system/58096.html)
-+ [子域名搜集思路与技巧梳理 ](https://www.freebuf.com/articles/web/117006.html)
 + [Github上寻找敏感信息技巧分享 ](https://www.2cto.com/article/201407/318742.html?gavgfs=u5xbd3)
 + [配置漏洞之DNS域传送 ](https://mp.weixin.qq.com/s?__biz=MzI5MDQ2NjExOQ==&mid=2247483722&idx=1&sn=0ca58973b1257a410ff13111134da931&chksm=ec1e3162db69b87461b7d881cc43384afa2f2a41a5d529f5ad7dc13eddfee70ad4e9136ecef5&scene=21#wechat_redirect)
 + [DNS域传送漏洞(一) ](http://www.lijiejie.com/dns-zone-transfer-1/)
@@ -578,6 +571,11 @@
 + [低危SSRF提权进内网](https://www.t00ls.net/articles-51972.html)
 
 ## 挖洞技巧
++ [漏洞挖掘之域名信息收集 ](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
++ [SRC漏洞挖掘小见解 ](http://www.mottoin.com/detail/864.html)
++ [挖洞技巧：信息泄露之总结](https://www.anquanke.com/post/id/94787)
++ [漏洞挖掘之域名信息收集 ](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
++ [漏洞挖掘之域名信息收集 ](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
 + [漏洞挖掘之域名信息收集 ](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
 
 ## 提权
