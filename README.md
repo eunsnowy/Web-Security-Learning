@@ -52,13 +52,13 @@
     - [信息收集](#%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86)
     - [渗透](#%E6%B8%97%E9%80%8F)
     - [渗透实战](#%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98)
+    - [挖洞技巧](#%E6%8C%96%E6%B4%9E%E6%8A%80%E5%B7%A7)
     - [提权](#%E6%8F%90%E6%9D%83)
     - [渗透技巧](#%E6%B8%97%E9%80%8F%E6%8A%80%E5%B7%A7)
     - [运维](#%E8%BF%90%E7%BB%B4)
     - [DDOS](#ddos)
 - [CTF](#ctf)
     - [技巧总结](#%E6%8A%80%E5%B7%A7%E6%80%BB%E7%BB%93)
-- [挖洞技巧](#挖洞技巧)
 - [杂](#%E6%9D%82)
 
 <!-- more -->
@@ -504,19 +504,12 @@
 + [PTES渗透测试执行标准 (诸葛建伟翻译)](http://www.doc88.com/p-7784047461299.html)
 
 ## 信息收集
-+ [看我如何收集全网IP的whois信息 ](https://mp.weixin.qq.com/s/qz0b42DKhgo1sfitcUKhtQ)
-+ [浅谈Web渗透测试中的信息收集 ](http://www.freebuf.com/articles/web/142767.html)
-+ [渗透测试教程：如何侦查目标以及收集信息？](http://www.4hou.com/penetration/6850.html)
-+ [本屌的web漏洞扫描器思路 技巧总结（域名信息收集篇）](weibo.com/ttarticle/p/show?id=2309404088584863883789)
-+ [子域名的艺术](http://www.91ri.org/17001.html)
 + [渗透测试向导之子域名枚举技术](http://www.freebuf.com/articles/network/161046.html)
-+ [实例演示如何科学的进行子域名收集](http://bobao.360.cn/learning/detail/4119.html)
 + [【渗透神器系列】搜索引擎 ](http://thief.one/2017/05/19/1/)
 + [域渗透基础简单信息收集（基础篇）](https://blog.csdn.net/Fly_hps/article/details/80636089)
 + [内网渗透定位技术总结](http://docs.ioin.in/writeup/www.mottoin.com/_92978_html/index.html)
 + [后渗透攻防的信息收集](https://www.secpulse.com/archives/51527.html)
-+ [安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/99951.html)
-+ [子域名枚举的艺术](http://www.mottoin.com/101362.html)
++ [安全攻城师系列文章－敏感信息收集](http://www.mottoin.com/detail/1135.html)
 + [论二级域名收集的各种姿势](https://mp.weixin.qq.com/s/ardCYdZzaSjvSIZiFraWGA)
 + [**我眼中的渗透测试信息搜集**](https://bbs.ichunqiu.com/thread-16020-1-1.html)
 + [大型目标渗透－01入侵信息搜集](https://xianzhi.aliyun.com/forum/read/1675.html)
@@ -583,6 +576,9 @@
 + [记一次内网渗透](http://killbit.me/2017/09/11/%E8%AE%B0%E4%B8%80%E6%AC%A1%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)
 + [******+++++******]
 + [低危SSRF提权进内网](https://www.t00ls.net/articles-51972.html)
+
+## 挖洞技巧
++ [漏洞挖掘之域名信息收集 ](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
 
 ## 提权
 + [提权技巧](http://www.secbox.cn/skill/5583.html)
@@ -663,8 +659,6 @@
 + [rcoil:CTF线下攻防赛总结](http://rcoil.me/2017/06/CTF%E7%BA%BF%E4%B8%8B%E8%B5%9B%E6%80%BB%E7%BB%93/)
 + [CTF内存取证入坑指南！稳！](http://www.freebuf.com/column/152545.html)
 
-# 挖洞技巧
-+ [漏洞挖掘之域名信息收集 ](https://mp.weixin.qq.com/s/yl1LgC_DHPJtaWh92va_Vw)
 # 杂
 + [细致分析Padding Oracle渗透测试全解析 ](http://www.freebuf.com/articles/database/150606.html)
 + [Exploring Compilation from TypeScript to WebAssembly](https://medium.com/web-on-the-edge/exploring-compilation-from-typescript-to-webassembly-f846d6befc12)
