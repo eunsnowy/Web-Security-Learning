@@ -521,8 +521,6 @@
 
 ## 渗透
 + [【玩转Linux系统】Linux内网渗透 ](https://mp.weixin.qq.com/s/VJBnXq3--0HBD7eVeifOKA)
-+ [渗透测试指南之域用户组的范围](http://www.4hou.com/penetration/7016.html)
-+ [内网主机发现技巧补充](http://mp.weixin.qq.com/s/l-Avt72ajCIo5GdMEwVx7A)
 + [Linux 端口转发特征总结 ](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651903919&idx=1&sn=686cc53137aa9e8ec323dda1e54a2c23)
 + [内网渗透（持续更新） ](http://rcoil.me/2017/06/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)
 + [实战 SSH 端口转发](https://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/index.html)
