@@ -526,7 +526,6 @@
 + [Linux 端口转发特征总结 ](https://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651903919&idx=1&sn=686cc53137aa9e8ec323dda1e54a2c23)
 + [内网渗透（持续更新） ](http://rcoil.me/2017/06/%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F/)
 + [实战 SSH 端口转发](https://www.ibm.com/developerworks/cn/linux/l-cn-sshforward/index.html)
-+ [多重转发渗透隐藏内网](http://bobao.360.cn/learning/detail/3545.html)
 + [内网转发姿势](http://www.03sec.com/3141.shtml)
 + [内网转发的工具](https://mp.weixin.qq.com/s/EWL9-AUB_bTf7pU4S4A2zg)
 + [Linux 下多种反弹 shell 方法](http://www.03sec.com/3140.shtml)
