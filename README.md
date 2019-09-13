@@ -549,6 +549,7 @@
 + [内网如何定位管理员](https://www.secpulse.com/archives/32859.html)
 + [技术分享】内网渗透——网络环境的判断](https://www.anquanke.com/post/id/84955)
 + [深入解读MS14-068漏洞：微软精心策划的后门？](https://www.freebuf.com/vuls/56081.html)
++ [渗透测试 之 代理篇 ](https://rcoil.me/2017/06/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95-%E4%B9%8B-%E4%BB%A3%E7%90%86%E7%AF%87/)
 
 ## 渗透实战
 + [挖洞经验 | 看我如何综合利用4个漏洞实现GitHub Enterprise远程代码执行 ](http://www.freebuf.com/news/142680.html)
