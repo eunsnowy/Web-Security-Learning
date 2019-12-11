@@ -256,6 +256,8 @@
 + [利用JSONP跨域获取信息](https://xianzhi.aliyun.com/forum/read/1571.html)
 + [关于跨域和jsonp的一些理解(新手向)](https://segmentfault.com/a/1190000009577990)
 + [水坑攻击之Jsonp hijacking-信息劫持](http://www.mottoin.com/88237.html)
+[########]
++ [JSONP挖掘与高级利用](https://www.madebug.net/static/drops/papers-6630.html)
 
 ## SSTI
 + [Jinja2 template injection filter bypasses](https://0day.work/jinja2-template-injection-filter-bypasses/)
